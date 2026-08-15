@@ -18,7 +18,7 @@ I enjoy working with **Python, Django, JavaScript, and MySQL**, with a strong in
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -91,4 +91,3 @@ Dynamic Django blog application with user authentication, author-based ownership
 
 ---
 
-⭐ *Always learning. Always building.*
