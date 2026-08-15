@@ -48,7 +48,7 @@ MySQL
 
 Machine-learning based fake news detection system using **Logistic Regression**, achieving **95.58% testing accuracy**.
 
-**Technologies:** Python, Machine Learning, Logistic Regression
+**Technologies:** Python, Machine Learning
 
 ---
 
@@ -56,7 +56,7 @@ Machine-learning based fake news detection system using **Logistic Regression**,
 
 Responsive online book shopping website featuring multiple product categories and product showcase sections.
 
-**Technologies:** HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, Local Storage
+**Technologies:** HTML, CSS, Bootstrap, JavaScript
 
 ---
 
@@ -72,7 +72,7 @@ A Django-based task management application supporting task creation, viewing, up
 
 Dynamic Django blog application with user authentication, author-based ownership and complete CRUD functionality.
 
-**Technologies:** Python, Django, HTML, CSS, MySQL
+**Technologies:** Python, Django, HTML, CSS
 
 
 ##  Connect With Me
