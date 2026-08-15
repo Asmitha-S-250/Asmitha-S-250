@@ -74,7 +74,6 @@ Dynamic Django blog application with user authentication, author-based ownership
 
 **Technologies:** Python, Django, HTML, CSS, MySQL
 
----
 
 ## 📫 Connect With Me
 
@@ -82,5 +81,4 @@ Dynamic Django blog application with user authentication, author-based ownership
 
 **Email:** [asmithas250@gmail.com](mailto:asmithas250@gmail.com)
 
----
 
