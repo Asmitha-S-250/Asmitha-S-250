@@ -6,7 +6,6 @@ I'm a Computer Science and Engineering graduate passionate about building practi
 
 I enjoy working with **Python, Django, JavaScript, and MySQL**, with a strong interest in full-stack web development and software engineering.
 
----
 
 ## About Me
 
@@ -16,21 +15,16 @@ I enjoy working with **Python, Django, JavaScript, and MySQL**, with a strong in
 *  Interested in building practical and scalable applications
 *  Passionate about continuously learning new technologies
 
----
 
 ##  Tech Stack
 
 ### Frontend
 
-HTML
-CSS
-Bootstrap
-JavaScript
+HTML | CSS | Bootstrap | JavaScript
 
 ### Backend
 
-Python
-Django
+Python | Django
 
 ### Database
 
@@ -47,7 +41,6 @@ MySQL
 * Django Authentication
 * MySQL Joins & Subqueries
 
----
 
 ##  Featured Projects
 
